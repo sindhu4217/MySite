@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    background-image: url("/image1.jpg");
+    width: 100%;
+    height: 100%;
+}
+.Heading{
+    padding: 100px;
+}
+.Heading1{
+  text-align: center; 
+  margin-top: 50px;
+  margin-bottom: 0;
+  color: #23049d;
+  font-family: 'Tangerine',  cursive;
+  font-size: 1000%;
+}
+.Heading2{
+    margin:auto auto auto 780px ;
+    color: #0a1bb4;
+    font-family: 'Tangerine',  cursive;
+    font-size: 300%;
+}
+.Toolbar{
+    font-size: 30px;
+    color:blue ;
+    font-family: 'Texturina', serif;
+    word-spacing: 550px;
+    text-decoration: none;
+}
+.About{
+    width: 40%;
+    margin: auto;
+    padding: 40px;
+    top: 600px;
+    text-align: center;
+    color:darkblue ;
+    font-size: 20px;
+    font-family: 'Texturina', serif;
+}
+.para1{
+    line-height: 2;
+    word-spacing: 2px;
+}
+.para2{
+    line-height: 2;
+    word-spacing: 10px;
+    top: 600px;
+    text-align: left;
+    color:darkblue ;
+    font-size: 20px;
+    font-family: 'Texturina', serif;
+}
+hr{
+    border: 10px dotted #119797;
+    border-bottom: 0;
+    width: 5%;
+}
+.Heading3{
+    text-align: center;
+    color: #0c3b81;
+    font-family: 'Marck Script', cursive;
+    font-size: 80px;
+    margin: 0 auto 0 auto;
+}
+.Heading4{
+    text-align: left;
+    color: #23049d;
+    font-family: 'Marck Script', cursive;
+    font-size: xx-large;
+    padding-top: 30px ;
+    padding-bottom: 0;
+}
+.Heading5{
+    text-align: left;
+    color: #23049d;
+    font-family: 'Marck Script', cursive;
+    font-size: xx-large;
+    padding-top: 30px ;
+    padding-bottom: 0;
+}
+.Heading6{
+    text-align: center;
+    color: #0c3b81;
+    font-family: 'Tangerine',  cursive;
+    font-size: 80px;
+}
+.MySkills{
+    padding-top:100px;
+}
+.image1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.image2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.Skillset{
+    padding: 30px;
+}
+.para3{
+    line-height: 2;
+    word-spacing: 10px;
+    top: 600px;
+    text-align: center;
+    color:darkblue ;
+    font-size: 20px;
+    font-family: 'Texturina', serif;
+    
+}
+.footerclass{
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+ text-decoration: none;
+ margin: 100px 100px ;
+}
+.footer:hover{
+    color: #eaf6fe ;
+}
+.copyright{
+    padding-top: 20px;
+    padding-bottom: 0;
+    color: #eaf6fe ;
+    font-size: 20px;
+}
